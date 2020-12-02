@@ -1,0 +1,113 @@
+body {
+  margin: 0;
+  font-family:'Ubuntu' ,sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+  margin: 50px auto 0 auto;
+  font-family: 'Caveat', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'ubuntu', sans-serif;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Ubuntu', sans-serif;
+  color: #11999E;
+}
+a {
+  color: #11999E;
+  font-family: 'Ubuntu', sans-serif;
+  margin: auto 10px;
+  text-decoration: none;
+}
+a:hover {
+  color: #393b44;
+  text-transform: uppercase;
+}
+.livros {
+  width: 15%;
+  float: right;
+  margin-left: 10px;
+}
+.profile {
+  margin: 0px auto 50px auto;
+  width: 50%;
+}
+.skill-row {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  line-height: 1.5;
+}
+.msgcontato {
+  width: 30%;
+  margin: 20px auto 30px auto;
+  font-size: 100%;
+}
+.faculdade {
+  width: 50%;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  line-height: 1.5;
+}
+.pro {
+  font-weight: normal;
+  line-height: 2;
+}
+.top-container {
+  background-color: #d6e0f0;
+  padding-top: 100px;
+  position: relative;
+}
+
+.web2 {
+  margin: 0 auto 30px auto;
+  width: 15%;
+}
+.skills {
+  margin-top: 50px;
+}
+.web {
+  width: 15%;
+  float:left;
+  margin-right: 10px;
+}
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 365px;
+  top: 30px;
+}
+hr {
+  width: 4%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  border-color: #8D93AB;
+}
+.fotoperfil {
+  border-top: 10px;
+  padding-top: 10px;
+}
+.bottom-container {
+  background-color: #d6e0f0;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.assinatura {
+  font-family: serif;
+  color: #8d93ab;
+}
