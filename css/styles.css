@@ -87,9 +87,8 @@ a:hover {
 }
 
 .top-cloud {
-  position: absolute;
-  right: 365px;
-  top: 30px;
+  position: relative;
+  margin-left:50%
 }
 hr {
   width: 4%;
